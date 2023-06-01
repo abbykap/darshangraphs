@@ -1,2 +1,1 @@
-[global]
-maxUploadSize = 1000
+server.maxUploadSize=2000
